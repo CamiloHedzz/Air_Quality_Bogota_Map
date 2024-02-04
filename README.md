@@ -1,13 +1,13 @@
 # Simulación de Particulas PM2.5 en la Ciudad de Bogotá
 
-Una red ad-hoc es una red de dispositivos interconectados de forma inalámbrica sin la necesidad de un punto de acceso central. En otras palabras, una red ad-hoc es una red descentralizada y auto-organizada en la que cada dispositivo conectado actúa como un punto de acceso y un cliente al mismo tiempo.
+Este archivo IPython Notebook (ipynb) presenta una simulación detallada de la concentración de partículas PM2.5 en la ciudad de Bogotá. El objetivo principal de este proyecto es analizar y visualizar la contaminación del aire en diferentes barrios de Bogotá, utilizando la biblioteca Plotly para generar visualizaciones interactivas.
 
-Este tipo de red es útil en situaciones en las que no hay una infraestructura de red disponible o en las que se necesita una red temporalmente, como en situaciones de emergencia, en entornos militares o en áreas remotas donde no hay acceso a Internet.
-
-La principal ventaja de una red ad-hoc es su facilidad de configuración y su flexibilidad, ya que los dispositivos pueden conectarse y desconectarse fácilmente sin la necesidad de una configuración previa. Sin embargo, también pueden tener algunas limitaciones en cuanto a la cobertura y la escalabilidad en comparación con las redes tradicionales con puntos de acceso centralizados.
-
-
-_Este proyecto representa la simulacion de una red AdHoc de 4 nodos de computo. En la que se tienen en cuenta difentes variables del entorno como el ancho de banda de la red, la cantidad de interferencia o latencia prensente, el movimiento de los nodos y sus distancias respectivas._
+Visualización de Barrios Contaminados: Se emplea Plotly para crear gráficos interactivos que muestran los niveles de partículas PM2.5 en distintos barrios de Bogotá. Esto proporciona una perspectiva clara de las áreas más afectadas por la contaminación atmosférica.
 
 ![simulacion](https://raw.githubusercontent.com/CamiloHedzz/Air_Quality_Bogota_Map/main/Bogota1.png)
+
+Rutas de Muestreo: Se incluyen visualizaciones de las rutas tomadas para la recopilación de datos en cada muestra. Estas rutas ofrecen información valiosa sobre la distribución geográfica de la contaminación y pueden ayudar a identificar posibles fuentes de emisión.
+
 ![simulacion](https://raw.githubusercontent.com/CamiloHedzz/Air_Quality_Bogota_Map/main/Bogota_rutes.png)
+
+La calidad del aire, especialmente en áreas urbanas densamente pobladas como Bogotá, es crucial para la salud pública. Las partículas PM2.5, al ser inhaladas, pueden penetrar profundamente en los pulmones y entrar en la corriente sanguínea, lo que ha sido vinculado a diversos problemas de salud, como enfermedades respiratorias y cardiovasculares. Este proyecto no solo proporciona una visión detallada de la contaminación atmosférica en Bogotá, sino que también destaca la importancia de abordar y mitigar los niveles de partículas PM2.5 para mejorar la calidad de vida y promover la salud pública en la ciudad.
